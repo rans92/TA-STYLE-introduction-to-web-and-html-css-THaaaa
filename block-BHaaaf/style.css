@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+    font-size: 64px;
+}
+body{
+    background-color: azure;
+
+}
+p {
+    color: blue;
+    font-size: 40px;
+}
+.first {
+    color: yellow;
+    font-size: 36;
+}
+.second {
+    color: yellowgreen;
+    font-size: 28;
+}
+#unique {
+    color: turquoise;
+    font-size: 18;
+}
