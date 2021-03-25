@@ -1,0 +1,29 @@
+h2{
+    color: green;
+    font-size: 30px;
+    font-style: bold;
+}
+body{
+    background-color: rgb(1, 1, 54);
+}
+p{
+    color: whitesmoke;
+    font-size: 20px;
+    font-style: bold;
+}
+h1{
+    color: whitesmoke;
+    font-size: 38px;
+    font-size: bold;
+    text-align: center;
+}
+h3{
+    color: whitesmoke;
+    font-size: 28px;
+    font-style: bold;
+}
+h4{
+    color: whitesmoke;
+    font-style: bold;
+    text-align: center;
+}
